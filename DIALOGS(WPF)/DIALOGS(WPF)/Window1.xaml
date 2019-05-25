@@ -1,0 +1,16 @@
+﻿<Window x:Class="DIALOGS_WPF_.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DIALOGS_WPF_"
+        mc:Ignorable="d"
+        Title="Защищеннное окно" Height="324" Width="509" WindowStartupLocation="CenterOwner" Closing="Window_Closing">
+    <Canvas>
+        <Button x:Name="button1" Content="OK" Height="30" Canvas.Left="273" Canvas.Top="232" Width="65" Click="Button1_Click" IsEnabled="False" IsDefault="True"/>
+        <Button x:Name="button2" Content="Отмена" Height="30" Canvas.Left="367" Canvas.Top="232" Width="85" Click="Button2_Click" IsCancel="True"/>
+        <Label Content="Новый пароль:" Height="27" Canvas.Left="26" Canvas.Top="124" Width="97"/>
+        <PasswordBox x:Name="passwordBox1" Height="24" Canvas.Left="140" Canvas.Top="95" Width="251" PasswordChanged="PasswordBox1_PasswordChanged"/>
+        <PasswordBox x:Name="passwordBox2" Height="26" Canvas.Left="140" Canvas.Top="158" Width="251" PasswordChanged="PasswordBox2_PasswordChanged"/>
+    </Canvas>
+</Window>

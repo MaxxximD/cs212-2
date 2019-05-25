@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\bin\Debug\DIALOGS(WPF).exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\bin\Debug\DIALOGS(WPF).exe
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\bin\Debug\DIALOGS(WPF).pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF).csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\App.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF)_MarkupCompile.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF)_MarkupCompile.lref
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF).g.resources
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS_WPF_.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF).csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF).exe
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\DIALOGS(WPF).pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\Window1.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DIALOGS(WPF)\DIALOGS(WPF)\obj\Debug\Window1.baml
