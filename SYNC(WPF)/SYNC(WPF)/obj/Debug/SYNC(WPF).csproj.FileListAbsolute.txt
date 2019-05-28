@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\bin\Debug\SYNC(WPF).exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\bin\Debug\SYNC(WPF).exe
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\bin\Debug\SYNC(WPF).pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF).csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\Window1.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\App.g.cs
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF)_MarkupCompile.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF)_MarkupCompile.lref
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\Window1.baml
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF).g.resources
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC_WPF_.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF).csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF).exe
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\SYNC(WPF)\SYNC(WPF)\obj\Debug\SYNC(WPF).pdb

@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\bin\Debug\DRAGDROP(WF).exe.config
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\bin\Debug\DRAGDROP(WF).exe
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\bin\Debug\DRAGDROP(WF).pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP(WF).csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP_WF_.Form1.resources
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP_WF_.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP(WF).csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP(WF).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP(WF).exe
+C:\Users\ADMIN\Documents\Visual Studio 2019\Projects\DRAGDROP(WF)\DRAGDROP(WF)\obj\Debug\DRAGDROP(WF).pdb
