@@ -1,0 +1,45 @@
+﻿<Window x:Class="DRAGDROP_WPF_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DRAGDROP_WPF_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.CommandBindings>
+        <CommandBinding x:Name="exit0" Command="ApplicationCommands.Close" Executed="Exit0_Executed"/>
+    </Window.CommandBindings>
+    <Grid x:Name="grid1">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="62*"/>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="55*"/>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="55*"/>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="63*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="290*"/>
+            <RowDefinition Height="62*"/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="richTextBox1" AcceptsReturn="True" TextWrapping="Wrap" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="1" Grid.RowSpan="1"  AllowDrop="True" DragEnter="RichTextBox1_DragEnter" Drop="RichTextBox1_Drop" PreviewDragOver="RichTextBox1_PreviewDragOver" ScrollViewer.VerticalScrollBarVisibility="Auto" KeyDown="RichTextBox1_KeyDown"/>
+        <TextBox x:Name="richTextBox2" AcceptsReturn="True" TextWrapping="Wrap" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="1" Grid.RowSpan="1"  AllowDrop="True" DragEnter="RichTextBox2_DragEnter" Drop="RichTextBox2_Drop" PreviewDragOver="RichTextBox2_PreviewDragOver" ScrollViewer.VerticalScrollBarVisibility="Auto" KeyDown="RichTextBox1_KeyDown"/>
+        <TextBox x:Name="richTextBox3" AcceptsReturn="True" TextWrapping="Wrap" Grid.Row="1" Grid.Column="5" Grid.ColumnSpan="1" Grid.RowSpan="1"  AllowDrop="True" DragEnter="RichTextBox3_DragEnter" Drop="RichTextBox3_Drop" PreviewDragOver="RichTextBox3_PreviewDragOver" ScrollViewer.VerticalScrollBarVisibility="Auto" KeyDown="RichTextBox1_KeyDown"/>
+
+
+        <Menu Grid.Row="0" Grid.RowSpan="1" Height="27" VerticalAlignment="Top" Grid.ColumnSpan="7">
+            <MenuItem Header="Command" Height="23" Width="117">
+                <MenuItem x:Name="clear" Header="Clear" Height="23" Margin="-1,0,0,0" Click="Clear_Click"/>
+                <MenuItem x:Name="exit1" Header="E_xit" InputGestureText="Alt+F4" Height="23" Margin="-1,0,0,0" Command="ApplicationCommands.Close"/>
+            </MenuItem>
+        </Menu>
+        
+
+
+    </Grid>
+</Window>
